@@ -2,7 +2,7 @@
 
 **Student | Aspiring Developer | Tech Enthusiast**
 
-I am currently a student learning software development and exploring technologies like Python, Java, and AI.
+I am  a student  currently learning software development and exploring technologies like Python, Java, and AI.
 
 ---
 
@@ -14,7 +14,7 @@ I am currently a student learning software development and exploring technologie
 ---
 
 ### 📫 Connect with me:
-- [LinkedIn]- linkedin.com/in/rutvik-tarade
+- [LinkedIn](https://linkedin.com/in/rutvik-tarade)  
 - [Email](mailto:taraderutvik@gmail.com)  
 
 ---
