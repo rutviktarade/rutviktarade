@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rutvik 👋
 
-<!--
-**rutviktarade/rutviktarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student | Aspiring Developer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+I am currently a student learning software development and exploring technologies like Python, Java, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills  
+- 🔹 Programming: Python, JavaScript, HTML/CSS  
+- 🔹 Web Development: Flask, React  
+- 🔹 Tools: Git, GitHub, MySQL  
+
+---
+
+### 📫 Connect with me:
+- [LinkedIn]- linkedin.com/in/rutvik-tarade
+- [Email](mailto:taraderutvik@gmail.com)  
+
+---
