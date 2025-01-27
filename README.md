@@ -6,10 +6,14 @@ I am  a student  currently learning software development and exploring technolog
 
 ---
 
-### 🚀 Skills  
-- 🔹 Programming: Python, JavaScript, HTML/CSS  
-- 🔹 Web Development: Flask, React  
-- 🔹 Tools: Git, GitHub, MySQL  
+### 🚀 Skills and Tools:
+
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue)
+![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow-green)
 
 ---
 
