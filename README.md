@@ -9,7 +9,7 @@
 ### 🚀 Skills and Tools:
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-blue)
-![SQL](https://img.shields.io/badge/SQL-Expert-Orange)
+![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-green)
